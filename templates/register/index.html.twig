@@ -1,0 +1,12 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello RegisterController!{% endblock %}
+
+{% block body %}
+        <div class="py-5">
+                    <h1 class="text-primary text-center">Formulaire d'Inscription</h1>
+                    {{ form_start(form) }}
+                                {{form(form)}}
+                    {{ form_end(form) }}
+        </div>
+{% endblock %}
