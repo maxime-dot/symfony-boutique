@@ -1,0 +1,33 @@
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque dicta quos ipsum officiis explicabo velit adipisci aperiam. Repellat quia optio ipsa nihil, voluptate earum necessitatibus sequi ut modi architecto?
+Nulla, nemo perQuam autem minus ut doloribus, possimus quidem labore temporibus unde deserunt! Omnis officiis ratione itaque! Eum, commodi reiciendis! Reprehenderit commodi, eos numquam suscipit tenetur dolores itaque molestias fuga accusantium nihil!spiciatis. Consequatur, natus optio quod laudantium eaque nisi enim quos ab, aliquam atque obcaecati accusamus minima dolorem necessitatibus ex maiores explicabo eum labore deserunt ea nam facere! Nulla?
+Nostrum ad obcaecati rerum molestias inventore autem fugiat magni! Inventore molestias ipsa quod voluptatem libero optio obcaecati ad modi, saepe omnis, voluptatum provident eligendi, officia mollitia ducimus nobis dolore maxime.
+
+Consequuntur quaerat porro voluptatibus ex maxime, alias voluptate autem nemo ea amet illum dolor placeat commodi molestias praesentium, excepturi quos reiciendis ipsum recusandae, doloremque animi et sed iure similique? Velit!
+
+RAPPORT JOURNALIER - 08 Janvier 2023
+TACHES ACCOMPLIES
+Ce lundi, nous avons entamé les taches inachevées l'année derniére et le débogage de quelque pipeline.
+
+MICRO-TACHES
+- Débogage du Proxmox [30min]
+En raison d'un blocage inattendu, on a débloqué ce probléme.
+- Diagramme de GANTT[2h]
+Nous avons construit un diagramme de GANTT dans le cadre de mettre en place le SOC, 
+et pour envisager les outils nécessaires et la durée.
+- Débogage du pipeline pour l'environnement prod du site web[1h]
+Cela est faité pour démasquer et rectifier l'erreur durant le pipeline.
+- Renseignement sur l'outil Evil [2h]
+Pour bien méner la présentation au Vendredi prochain, il est mieux de faire une demonstration avec cet outils
+- Test de la commande Pm2 sur un projet Symfony[1h]
+cela est effectué pour voir que la commande pm2 soit disponible autre techno comme symfony.
+
+
+DIFFICULTÉ RENCONTRÉE 
+la difficulté sur le pipeline est non résolue
+
+AUTRE HEURE
+Partage de connaissance sur la sécurité réseau.
+
+
+RÉSUMÉ DE LA JOURNÉE 
+En somme, la journée était pleine de connaissance.
